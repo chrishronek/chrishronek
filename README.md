@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris Hronek</h1>
-<h3 align="center">Data Consultant at <a href="https://www.essentl.io">Essentl</a></h3>
+<h3 align="center">Director of Data Engineering at <a href="https://www.linqto.com">Linqto</a></h3>
 
 <br>
 
