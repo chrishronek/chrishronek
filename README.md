@@ -100,6 +100,7 @@
 
 <h3>My Blog Posts:</h3>
 
+- [Splitting Nested JSON Into Individual Rows in Redshift](https://essentl.io/splitting-nested-json-in-redshift/)
 - [Distinctions between Data Analysts, Data Scientists, and Data Engineers](https://essentl.io/distinctions-between-data-analysts-scientists-and-engineers/)
 - [The Power of Pre-Commit and SQLFluff](https://essentl.io/the-power-of-pre-commit-and-sql-fluff/)
 - [Beginning a Career in Data](https://essentl.io/beginning-a-career-in-data)
