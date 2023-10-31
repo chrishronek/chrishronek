@@ -100,6 +100,7 @@
 
 <h3>My Blog Posts:</h3>
 
+- [Cut Your MWAA Bill in Half with Plural](https://parakeet.solutions/cut-your-mwaa-bill-in-half-with-plural/)
 - [Harness the Power of dbt Core in Airflow with Astronomer Cosmos on MWAA](https://essentl.io/running-astronomer-cosmos-in-mwaa/)
 - [Splitting Nested JSON Into Individual Rows in Redshift](https://essentl.io/splitting-nested-json-in-redshift/)
 - [Distinctions between Data Analysts, Data Scientists, and Data Engineers](https://essentl.io/distinctions-between-data-analysts-scientists-and-engineers/)
