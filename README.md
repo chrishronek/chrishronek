@@ -101,11 +101,11 @@
 <h3>My Blog Posts:</h3>
 
 - [Cut Your MWAA Bill in Half with Plural](https://parakeet.solutions/cut-your-mwaa-bill-in-half-with-plural/)
-- [Harness the Power of dbt Core in Airflow with Astronomer Cosmos on MWAA](https://essentl.io/running-astronomer-cosmos-in-mwaa/)
-- [Splitting Nested JSON Into Individual Rows in Redshift](https://essentl.io/splitting-nested-json-in-redshift/)
-- [Distinctions between Data Analysts, Data Scientists, and Data Engineers](https://essentl.io/distinctions-between-data-analysts-scientists-and-engineers/)
-- [The Power of Pre-Commit and SQLFluff](https://essentl.io/the-power-of-pre-commit-and-sql-fluff/)
-- [Beginning a Career in Data](https://essentl.io/beginning-a-career-in-data)
+- [Harness the Power of dbt Core in Airflow with Astronomer Cosmos on MWAA](https://parakeet.solutions/running-astronomer-cosmos-in-mwaa/)
+- [Splitting Nested JSON Into Individual Rows in Redshift](https://parakeet.solutions/splitting-nested-json-in-redshift/)
+- [Distinctions between Data Analysts, Data Scientists, and Data Engineers](https://parakeet.solutions/distinctions-between-data-analysts-scientists-and-engineers/)
+- [The Power of Pre-Commit and SQLFluff](https://parakeet.solutions/the-power-of-pre-commit-and-sql-fluff/)
+- [Beginning a Career in Data](https://parakeet.solutions/beginning-a-career-in-data/)
 - [Orchestrate Redshift Operations with Airflow](https://docs.astronomer.io/learn/airflow-redshift)
 
 <h3>My Video Content:</h3>
