@@ -100,6 +100,7 @@
 
 <h3>My Blog Posts:</h3>
 
+- [Elevating DataHub with dbt Core in Apache Airflow, Coordinated by Astronomer Cosmos](https://parakeet.solutions/ingest-cosmos-dbt-into-datahub/)
 - [Cut Your MWAA Bill in Half with Plural](https://parakeet.solutions/cut-your-mwaa-bill-in-half-with-plural/)
 - [Harness the Power of dbt Core in Airflow with Astronomer Cosmos on MWAA](https://parakeet.solutions/running-astronomer-cosmos-in-mwaa/)
 - [Splitting Nested JSON Into Individual Rows in Redshift](https://parakeet.solutions/splitting-nested-json-in-redshift/)
