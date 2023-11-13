@@ -100,6 +100,7 @@
 
 <h3>My Blog Posts:</h3>
 
+- [Secrets Management in Airflow: Tailoring Connections for Dev, QA, and Prod Environments](https://parakeet.solutions/secrets-management-in-airflow-dev-qa-prod/)
 - [Developing Airflow Locally with Docker and Makefile](https://parakeet.solutions/develop-airflow-locally-with-makefile/)
 - [Elevating DataHub with dbt Core in Apache Airflow, Coordinated by Astronomer Cosmos](https://parakeet.solutions/ingest-cosmos-dbt-into-datahub/)
 - [Cut Your MWAA Bill in Half with Plural](https://parakeet.solutions/cut-your-mwaa-bill-in-half-with-plural/)
