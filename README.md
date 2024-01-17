@@ -3,7 +3,7 @@
 
 <br>
 
-- 🌱 What I'm learning: How to self host applications on Kubernetes!
+- 🌱 What I'm learning: How to self-host applications on Kubernetes!
 
 - 🔥 My proudest project: [Cosmos](https://github.com/astronomer/astronomer-cosmos) allows you to run dbt core natively in Apache Airflow
 
@@ -100,6 +100,8 @@
 
 <h3>My Blog Posts:</h3>
 
+- [Cut Your MWAA Bill in Half with Plural](https://parakeet.solutions/cut-your-mwaa-bill-in-half-with-plural/)
+- [Optimizing Data Quality: dbt Model Coverage Analysis](https://parakeet.solutions/optimizing-data-quality-dbt-model-coverage-analysis/)
 - [Secrets Management in Airflow: Tailoring Connections for Dev, QA, and Prod Environments](https://parakeet.solutions/secrets-management-in-airflow-dev-qa-prod/)
 - [Developing Airflow Locally with Docker and Makefile](https://parakeet.solutions/develop-airflow-locally-with-makefile/)
 - [Elevating DataHub with dbt Core in Apache Airflow, Coordinated by Astronomer Cosmos](https://parakeet.solutions/ingest-cosmos-dbt-into-datahub/)
@@ -115,21 +117,3 @@
 
 - [Running dbt in Airflow](https://www.astronomer.io/events/webinars/the-easiest-way-to-orchestrate-your-dbt-workflows-from-airflow/)
 - [Manage Dependencies Between Airflow Deployments, DAGs, and Tasks](https://www.youtube.com/watch?v=8bwlQAqzaOs)
-
-<h3>Statistical Data:</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=chrishronek&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="chrishronek" 
-    bg_color=#808080/></p>
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrishronek&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="chrishronek" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adam-pw&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
-      
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
