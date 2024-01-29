@@ -100,6 +100,7 @@
 
 <h3>My Blog Posts:</h3>
 
+- [Bridging Gaps in Airflow: Unveiling the Journey from User to Contributor](https://medium.com/@chrishronek/bridging-gaps-in-airflow-unveiling-the-journey-from-user-to-contributor-54d361c75191)
 - [Cut Your MWAA Bill in Half with Plural](https://parakeet.solutions/cut-your-mwaa-bill-in-half-with-plural/)
 - [Optimizing Data Quality: dbt Model Coverage Analysis](https://parakeet.solutions/optimizing-data-quality-dbt-model-coverage-analysis/)
 - [Secrets Management in Airflow: Tailoring Connections for Dev, QA, and Prod Environments](https://parakeet.solutions/secrets-management-in-airflow-dev-qa-prod/) - ([Medium Repost](https://medium.com/apache-airflow/secrets-management-in-airflow-tailoring-connections-for-dev-qa-and-prod-environments-374df481d506))
