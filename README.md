@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris Hronek</h1>
-<h3 align="center">Director of Data Engineering at <a href="https://www.linqto.com">Linqto, [Airflow Champion](https://www.astronomer.io/champions/), and Data Consultant</a></h3>
+<h3 align="center">Director of Data Engineering at <a href="https://www.linqto.com">Linqto</a>, <a href="https://www.astronomer.io/champions/">Airflow Champion</a>, and Data Consultant</a></h3>
 
 <br>
 
