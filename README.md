@@ -102,7 +102,7 @@
 
 - [Cut Your MWAA Bill in Half with Plural](https://parakeet.solutions/cut-your-mwaa-bill-in-half-with-plural/)
 - [Optimizing Data Quality: dbt Model Coverage Analysis](https://parakeet.solutions/optimizing-data-quality-dbt-model-coverage-analysis/)
-- [Secrets Management in Airflow: Tailoring Connections for Dev, QA, and Prod Environments](https://parakeet.solutions/secrets-management-in-airflow-dev-qa-prod/)
+- [Secrets Management in Airflow: Tailoring Connections for Dev, QA, and Prod Environments](https://parakeet.solutions/secrets-management-in-airflow-dev-qa-prod/) - ([Medium Repost](https://medium.com/apache-airflow/secrets-management-in-airflow-tailoring-connections-for-dev-qa-and-prod-environments-374df481d506))
 - [Developing Airflow Locally with Docker and Makefile](https://parakeet.solutions/develop-airflow-locally-with-makefile/)
 - [Elevating DataHub with dbt Core in Apache Airflow, Coordinated by Astronomer Cosmos](https://parakeet.solutions/ingest-cosmos-dbt-into-datahub/)
 - [Cut Your MWAA Bill in Half with Plural](https://parakeet.solutions/cut-your-mwaa-bill-in-half-with-plural/)
