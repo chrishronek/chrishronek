@@ -3,7 +3,7 @@
 
 <br>
 
-- 🌱 What I'm learning: How to self-host applications on Kubernetes!
+- 🌱 What I'm learning: How to build a semantic data layer for data operations!
 
 - 🔥 My proudest project: [Cosmos](https://github.com/astronomer/astronomer-cosmos) allows you to run dbt core natively in Apache Airflow
 
