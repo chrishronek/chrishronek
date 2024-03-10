@@ -51,25 +51,11 @@
 
 <h3 align="left">Tools:</h3>
 <p>
+
   <a href="https://www.astronomer.io/" target="_blank" rel="noreferrer">
   <img
     src="https://www.astronomer.io/monogram/astronomer-monogram-RGB-600px.png"
     alt="astronomer" width="40" height="40" /> </a>
-  
-  <a href="https://www.snowflake.com/en/" target="_blank" rel="noreferrer">
-  <img
-    src="https://companieslogo.com/img/orig/SNOW-35164165.png?t=1634190631"
-    alt="snowflake" width="40" height="40" /> </a>
-
-  <a href="https://www.docker.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"
-      alt="docker" width="40" height="40" /> </a>
-
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"
-      alt="postgres" width="40" height="40" /> </a>
 
   <a href="https://airflow.apache.org" target="_blank" rel="noreferrer">
   <img
@@ -86,10 +72,20 @@
     src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png"
     alt="bigquery" width="40" height="40" /> </a>
 
+  <a href="https://www.snowflake.com/en/" target="_blank" rel="noreferrer">
+  <img
+    src="https://companieslogo.com/img/orig/SNOW-35164165.png?t=1634190631"
+    alt="snowflake" width="40" height="40" /> </a>
+
   <a href="https://aws.amazon.com/redshift/" target="_blank" rel="noreferrer">
   <img
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Amazon-Redshift-Logo.svg/1200px-Amazon-Redshift-Logo.svg.png"
     alt="redshift" width="40" height="40" /> </a>
+
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"
+      alt="postgres" width="40" height="40" /> </a>
 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img
@@ -100,6 +96,11 @@
   <img
     src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg"
     alt="kubernetes" width="40" height="40" /> </a>
+
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer">
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"
+    alt="docker" width="40" height="40" /> </a>
   
 </p>
 
