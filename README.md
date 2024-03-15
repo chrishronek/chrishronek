@@ -107,17 +107,17 @@
 <h3>My Blog Posts:</h3>
 
 - [Bridging Gaps in Airflow: Unveiling the Journey from User to Contributor](https://medium.com/@chrishronek/bridging-gaps-in-airflow-unveiling-the-journey-from-user-to-contributor-54d361c75191)
-- [Cut Your MWAA Bill in Half with Plural](https://parakeet.solutions/cut-your-mwaa-bill-in-half-with-plural/)
-- [Optimizing Data Quality: dbt Model Coverage Analysis](https://parakeet.solutions/optimizing-data-quality-dbt-model-coverage-analysis/)
-- [Secrets Management in Airflow: Tailoring Connections for Dev, QA, and Prod Environments](https://parakeet.solutions/secrets-management-in-airflow-dev-qa-prod/) - ([Medium Repost](https://medium.com/apache-airflow/secrets-management-in-airflow-tailoring-connections-for-dev-qa-and-prod-environments-374df481d506))
-- [Developing Airflow Locally with Docker and Makefile](https://parakeet.solutions/develop-airflow-locally-with-makefile/)
-- [Elevating DataHub with dbt Core in Apache Airflow, Coordinated by Astronomer Cosmos](https://parakeet.solutions/ingest-cosmos-dbt-into-datahub/)
-- [Cut Your MWAA Bill in Half with Plural](https://parakeet.solutions/cut-your-mwaa-bill-in-half-with-plural/)
-- [Harness the Power of dbt Core in Airflow with Astronomer Cosmos on MWAA](https://parakeet.solutions/running-astronomer-cosmos-in-mwaa/)
-- [Splitting Nested JSON Into Individual Rows in Redshift](https://parakeet.solutions/splitting-nested-json-in-redshift/)
-- [Distinctions between Data Analysts, Data Scientists, and Data Engineers](https://parakeet.solutions/distinctions-between-data-analysts-scientists-and-engineers/)
-- [The Power of Pre-Commit and SQLFluff](https://parakeet.solutions/the-power-of-pre-commit-and-sql-fluff/)
-- [Beginning a Career in Data](https://parakeet.solutions/beginning-a-career-in-data/)
+- [Cut Your MWAA Bill in Half with Plural](https://parakeetdata.com/cut-your-mwaa-bill-in-half-with-plural/)
+- [Optimizing Data Quality: dbt Model Coverage Analysis](https://parakeetdata.com/optimizing-data-quality-dbt-model-coverage-analysis/)
+- [Secrets Management in Airflow: Tailoring Connections for Dev, QA, and Prod Environments](https://parakeetdata.com/secrets-management-in-airflow-dev-qa-prod/) - ([Medium Repost](https://medium.com/apache-airflow/secrets-management-in-airflow-tailoring-connections-for-dev-qa-and-prod-environments-374df481d506))
+- [Developing Airflow Locally with Docker and Makefile](https://parakeetdata.com/develop-airflow-locally-with-makefile/)
+- [Elevating DataHub with dbt Core in Apache Airflow, Coordinated by Astronomer Cosmos](https://parakeetdata.com/ingest-cosmos-dbt-into-datahub/)
+- [Cut Your MWAA Bill in Half with Plural](https://parakeetdata.com/cut-your-mwaa-bill-in-half-with-plural/)
+- [Harness the Power of dbt Core in Airflow with Astronomer Cosmos on MWAA](https://parakeetdata.com/running-astronomer-cosmos-in-mwaa/)
+- [Splitting Nested JSON Into Individual Rows in Redshift](https://parakeetdata.com/splitting-nested-json-in-redshift/)
+- [Distinctions between Data Analysts, Data Scientists, and Data Engineers](https://parakeetdata.com/distinctions-between-data-analysts-scientists-and-engineers/)
+- [The Power of Pre-Commit and SQLFluff](https://parakeetdata.com/the-power-of-pre-commit-and-sql-fluff/)
+- [Beginning a Career in Data](https://parakeetdata.com/beginning-a-career-in-data/)
 - [Orchestrate Redshift Operations with Airflow](https://docs.astronomer.io/learn/airflow-redshift)
 
 <h3>My Video Content:</h3>
