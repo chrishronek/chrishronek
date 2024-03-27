@@ -108,7 +108,6 @@
 
 - [How SDF supercharged my SQL Data Development](https://parakeetdata.com/supercharge-your-sql-with-sdf)
 - [Bridging Gaps in Airflow: Unveiling the Journey from User to Contributor](https://medium.com/@chrishronek/bridging-gaps-in-airflow-unveiling-the-journey-from-user-to-contributor-54d361c75191)
-- [Cut Your MWAA Bill in Half with Plural](https://parakeetdata.com/cut-your-mwaa-bill-in-half-with-plural/)
 - [Optimizing Data Quality: dbt Model Coverage Analysis](https://parakeetdata.com/optimizing-data-quality-dbt-model-coverage-analysis/)
 - [Secrets Management in Airflow: Tailoring Connections for Dev, QA, and Prod Environments](https://parakeetdata.com/secrets-management-in-airflow-dev-qa-prod/) - ([Medium Repost](https://medium.com/apache-airflow/secrets-management-in-airflow-tailoring-connections-for-dev-qa-and-prod-environments-374df481d506))
 - [Developing Airflow Locally with Docker and Makefile](https://parakeetdata.com/develop-airflow-locally-with-makefile/)
