@@ -106,6 +106,7 @@
 
 <h3>My Blog Posts:</h3>
 
+- [Optimizing Data Engineering with Artie's Real-Time Database Replication](https://parakeetdata.com/optimize-your-data-engineering-with-artie)
 - [How SDF supercharged my SQL Data Development](https://parakeetdata.com/supercharge-your-sql-with-sdf)
 - [Bridging Gaps in Airflow: Unveiling the Journey from User to Contributor](https://medium.com/@chrishronek/bridging-gaps-in-airflow-unveiling-the-journey-from-user-to-contributor-54d361c75191)
 - [Optimizing Data Quality: dbt Model Coverage Analysis](https://parakeetdata.com/optimizing-data-quality-dbt-model-coverage-analysis/)
