@@ -106,6 +106,7 @@
 
 <h3>My Blog Posts:</h3>
 
+- [Streamlining ETL Workflows with Apache Airflow and Airbyte](https://medium.com/apache-airflow/streamlining-etl-workflows-with-apache-airflow-and-airbyte-b116d2997afa)
 - [Optimizing Data Engineering with Artie's Real-Time Database Replication](https://parakeetdata.com/optimize-your-data-engineering-with-artie)
 - [How SDF supercharged my SQL Data Development](https://parakeetdata.com/supercharge-your-sql-with-sdf)
 - [Bridging Gaps in Airflow: Unveiling the Journey from User to Contributor](https://medium.com/@chrishronek/bridging-gaps-in-airflow-unveiling-the-journey-from-user-to-contributor-54d361c75191)
