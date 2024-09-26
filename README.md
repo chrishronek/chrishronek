@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris Hronek</h1>
-<h3 align="center">Director of Data Engineering at <a href="https://www.linqto.com">Linqto</a>, <a href="https://www.astronomer.io/champions/">Airflow Champion</a>, and Data Consultant</a></h3>
+<h3 align="center">Director of Data Engineering at <a href="https://www.linqto.com">Linqto</a>, and Data Consultant</a></h3>
 
 <br>
 
@@ -106,10 +106,10 @@
 
 <h3>My Blog Posts:</h3>
 
-- [Streamlining ETL Workflows with Apache Airflow and Airbyte](https://medium.com/apache-airflow/streamlining-etl-workflows-with-apache-airflow-and-airbyte-b116d2997afa)
+- [Streamlining ETL Workflows with Apache Airflow and Airbyte](https://medium.com/apache-airflow/streamlining-etl-workflows-with-apache-airflow-and-airbyte-b116d2997afa) (Medium)
 - [Optimizing Data Engineering with Artie's Real-Time Database Replication](https://parakeetdata.com/optimize-your-data-engineering-with-artie)
 - [How SDF supercharged my SQL Data Development](https://parakeetdata.com/supercharge-your-sql-with-sdf)
-- [Bridging Gaps in Airflow: Unveiling the Journey from User to Contributor](https://medium.com/@chrishronek/bridging-gaps-in-airflow-unveiling-the-journey-from-user-to-contributor-54d361c75191)
+- [Bridging Gaps in Airflow: Unveiling the Journey from User to Contributor](https://medium.com/@chrishronek/bridging-gaps-in-airflow-unveiling-the-journey-from-user-to-contributor-54d361c75191) (Medium)
 - [Optimizing Data Quality: dbt Model Coverage Analysis](https://parakeetdata.com/optimizing-data-quality-dbt-model-coverage-analysis/)
 - [Secrets Management in Airflow: Tailoring Connections for Dev, QA, and Prod Environments](https://parakeetdata.com/secrets-management-in-airflow-dev-qa-prod/) - ([Medium Repost](https://medium.com/apache-airflow/secrets-management-in-airflow-tailoring-connections-for-dev-qa-and-prod-environments-374df481d506))
 - [Developing Airflow Locally with Docker and Makefile](https://parakeetdata.com/develop-airflow-locally-with-makefile/)
