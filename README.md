@@ -106,7 +106,7 @@
 
 <h3>My Blog Posts:</h3>
 
-- [Revolutionizing AdHoc Analytics: Building a Slack-based Data Assistant with Snowflake Cortex Analyst](https://medium.com/snowflake/revolutionizing-adhoc-analytics-with-snowflake-cortex-5f1eb1304b9a)
+- [Revolutionizing AdHoc Analytics: Building a Slack-based Data Assistant with Snowflake Cortex Analyst](https://medium.com/snowflake/revolutionizing-adhoc-analytics-with-snowflake-cortex-5f1eb1304b9a) (Medium)
 - [Streamlining ETL Workflows with Apache Airflow and Airbyte](https://medium.com/apache-airflow/streamlining-etl-workflows-with-apache-airflow-and-airbyte-b116d2997afa) (Medium)
 - [Optimizing Data Engineering with Artie's Real-Time Database Replication](https://parakeetdata.com/optimize-your-data-engineering-with-artie)
 - [How SDF supercharged my SQL Data Development](https://parakeetdata.com/supercharge-your-sql-with-sdf)
