@@ -106,22 +106,7 @@
 
 <h3>My Blog Posts:</h3>
 
-- [Revolutionizing AdHoc Analytics: Building a Slack-based Data Assistant with Snowflake Cortex Analyst](https://medium.com/snowflake/revolutionizing-adhoc-analytics-with-snowflake-cortex-5f1eb1304b9a) (Medium)
-- [Streamlining ETL Workflows with Apache Airflow and Airbyte](https://medium.com/apache-airflow/streamlining-etl-workflows-with-apache-airflow-and-airbyte-b116d2997afa) (Medium)
-- [Optimizing Data Engineering with Artie's Real-Time Database Replication](https://parakeetdata.com/optimize-your-data-engineering-with-artie)
-- [How SDF supercharged my SQL Data Development](https://parakeetdata.com/supercharge-your-sql-with-sdf)
-- [Bridging Gaps in Airflow: Unveiling the Journey from User to Contributor](https://medium.com/@chrishronek/bridging-gaps-in-airflow-unveiling-the-journey-from-user-to-contributor-54d361c75191) (Medium)
-- [Optimizing Data Quality: dbt Model Coverage Analysis](https://parakeetdata.com/optimizing-data-quality-dbt-model-coverage-analysis/)
-- [Secrets Management in Airflow: Tailoring Connections for Dev, QA, and Prod Environments](https://parakeetdata.com/secrets-management-in-airflow-dev-qa-prod/) - ([Medium Repost](https://medium.com/apache-airflow/secrets-management-in-airflow-tailoring-connections-for-dev-qa-and-prod-environments-374df481d506))
-- [Developing Airflow Locally with Docker and Makefile](https://parakeetdata.com/develop-airflow-locally-with-makefile/)
-- [Elevating DataHub with dbt Core in Apache Airflow, Coordinated by Astronomer Cosmos](https://parakeetdata.com/ingest-cosmos-dbt-into-datahub/)
-- [Cut Your MWAA Bill in Half with Plural](https://parakeetdata.com/cut-your-mwaa-bill-in-half-with-plural/)
-- [Harness the Power of dbt Core in Airflow with Astronomer Cosmos on MWAA](https://parakeetdata.com/running-astronomer-cosmos-in-mwaa/)
-- [Splitting Nested JSON Into Individual Rows in Redshift](https://parakeetdata.com/splitting-nested-json-in-redshift/)
-- [Distinctions between Data Analysts, Data Scientists, and Data Engineers](https://parakeetdata.com/distinctions-between-data-analysts-scientists-and-engineers/)
-- [The Power of Pre-Commit and SQLFluff](https://parakeetdata.com/the-power-of-pre-commit-and-sql-fluff/)
-- [Beginning a Career in Data](https://parakeetdata.com/beginning-a-career-in-data/)
-- [Orchestrate Redshift Operations with Airflow](https://docs.astronomer.io/learn/airflow-redshift)
+- [Click Here](https://parakeetdata.com/blog/)
 
 <h3>My Video Content:</h3>
 
