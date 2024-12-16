@@ -7,8 +7,6 @@
 
 - 🔥 My proudest project: [Cosmos](https://github.com/astronomer/astronomer-cosmos) allows you to run dbt core natively in Apache Airflow
 
-- 📫 How to reach me **chris.hronek@icloud.com**
-
 <br>
 
 <h3 align="left">Connect with me:</h3>
