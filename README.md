@@ -66,7 +66,11 @@ I help teams design, build, and run modern data platforms: orchestration, ELT, m
 
 ### ✍️ Latest blog posts
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->- [Replacing Tableau with Streamlit on Snowflake, Built by Claude Code](https://parakeetdata.com/blog/replacing-tableau-with-streamlit-on-snowflake/) — <sub>Sep 3, 2026</sub>
+- [Building an ETL Pipeline for Slack AI Huddle Notes with Airflow and Snowflake](https://parakeetdata.com/blog/etl-pipeline-for-slack-ai-huddle-notes/) — <sub>Jan 9, 2025</sub>
+- [Building a Scalable Reverse ETL Pipeline with Apache Airflow and Snowflake](https://parakeetdata.com/blog/reverse-etl-airflow-implementation/) — <sub>Dec 23, 2024</sub>
+- [Revolutionizing AdHoc Analytics: Building a Slack-based Data Assistant with Snowflake Cortex Analyst](https://parakeetdata.com/blog/revolutionizing-adhoc-analytics-with-snowflake-cortex/) — <sub>Oct 4, 2024</sub>
+- [Streamlining ETL Workflows with Apache Airflow and Airbyte](https://parakeetdata.com/blog/streamlining-etl-workflows-with-airflow-and-airbyte/) — <sub>May 28, 2024</sub>
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More posts on parakeetdata.com](https://parakeetdata.com/blog/)
